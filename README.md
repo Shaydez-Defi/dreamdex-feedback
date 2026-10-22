@@ -1,3 +1,3 @@
-# dreamDEX perps - feedback submissions
+# dreamDEX perps - security research
 
-Security feedback for the dreamDEX perps Builder Bounty (Somnia Tokyo testnet, chain 50383). One Markdown file per issue in feedback/. All findings were produced with read-only methods only (eth_call, eth_getCode, eth_getStorageAt, eth_getLogs). No state-changing transactions.
+Security findings from read-only analysis (eth_call, eth_getCode, eth_getStorageAt, eth_getLogs) of the dreamDEX perps contracts on Somnia Tokyo testnet (chain 50383). Per the bounty rules, security vulnerability reports are sent privately to security@dreamdex.io and are not published in this repository.
